@@ -34,3 +34,6 @@ If you have any suggestions for improvements, please create an issue. The name m
 
 ## Reporting problems
 If you encounter any problems with easydoc, please create an issue. The name should start with "**Issue:**" or "**Bug:**".
+
+## Upcomming in next version/Known issues
+Currently, the search bar does not work. In the next release, this will be fixed.
