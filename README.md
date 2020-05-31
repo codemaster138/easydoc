@@ -1,6 +1,9 @@
 # Easydoc
 Document your code like a pro.
 
+## DEMO
+Check out the demo here: [demo](http://learn.jakescode.net/node-js-the-complete-course)
+
 ## Usage
 Follow the installation instructions below. Then place your documentation into this README.md file.
 
